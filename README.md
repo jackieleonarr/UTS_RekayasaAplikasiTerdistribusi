@@ -1,5 +1,7 @@
 Simple HTTP Server with socket programming with Python 3.
 
+Requirement : Python 3
+
 Cara menjalankan :
 python3 index.py
 
