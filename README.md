@@ -7,7 +7,7 @@ Guide
 
 from app import (start, App)
 
-
+```
 app = App()
 
 @app.route('/')         # action untuk route /
@@ -20,5 +20,5 @@ start(app, __name__)    # default run port 8080
 
 # or define your port
 # start(app, __name__, port = 5000)
-
+```
 
